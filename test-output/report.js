@@ -48,42 +48,42 @@ formatter.match({
   "location": "LoginStepDefinition.user_is_already_login_page()"
 });
 formatter.result({
-  "duration": 8415864938,
+  "duration": 6592948385,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.title_of_login_page_is_APSRTC_Official_Website_for_Online_Bus_Ticket_Booking_APSRTConline_in()"
 });
 formatter.result({
-  "duration": 13495094,
+  "duration": 10793889,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_enters_username_and_password()"
 });
 formatter.result({
-  "duration": 245541911,
+  "duration": 247187876,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_clicks_on_login_page()"
 });
 formatter.result({
-  "duration": 717345732,
+  "duration": 1162624606,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.user_is_on_home_page()"
 });
 formatter.result({
-  "duration": 56417278,
+  "duration": 34423244,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginStepDefinition.Then_user_clicks_on_close_window()"
 });
 formatter.result({
-  "duration": 172556036,
+  "duration": 113363588,
   "status": "passed"
 });
 });
