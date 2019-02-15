@@ -13,6 +13,10 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+<<<<<<< HEAD
+=======
+
+>>>>>>> branch 'master' of https://github.com/jakkulababu/APSRTC.git
   <dependencies>
 	<dependency>
 			<groupId>info.cukes</groupId>
